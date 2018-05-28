@@ -90,7 +90,7 @@ def bits_to_string(b):
 
 
 # Create a message to encrypt
-message = 'Grocery list: sweet potatoes, broccoli, applies, bananas, yogurt'
+message = 'Grocery list: sweet potatoes, broccoli, apples, bananas, yogurt'
 
 # Convert to bits
 msg_bits = string_to_bits(message)
