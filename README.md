@@ -2,6 +2,8 @@
 
 #### Some simple practice with RSA encryption.
 
+View in ![Jupyter notebook](RSA_practice.ipynb)
+
 
 Uses some helper functions from [Udacity Applied Cryptography course](https://www.udacity.com/course/applied-cryptography--cs387)
 
